@@ -1,4 +1,4 @@
-# github图片无法显示
+# 访问github图片无法显示
 
 <font color="blue">😤问题描述: </font>
 
